@@ -1,0 +1,2 @@
+# StopList
+List of badwords
